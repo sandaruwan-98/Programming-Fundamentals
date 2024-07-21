@@ -16,4 +16,5 @@
       the student is graded as “A”. If the average is more than 70 the student is graded as 
       “B”. And for more than 50 student is graded as “C”. For any other average he is graded 
       as “F”. 
-      g. To calculate the sum from 1 to 10. 
+      g. To calculate the sum from 1 to 10.
+   
